@@ -9,7 +9,7 @@ int main(void)
 	printf("Klavyeden Girilen 2  adet sayinin esitlik, buyukluk, kucukluk durumu\n");
 	printf("2 adet Sayi giriniz(Sayilar arasi bosluk birakip Enter'a basiniz):  ");
 	
-	scanf("%d%d",&sayi1, &sayi2);//klavyeden girilen 2 adet sayının okunmasını sagladı
+	scanf("%d%d",&sayi1, &sayi2);//klavyeden girilen 2 adet sayÄ±nÄ±n okunmasÄ±nÄ± sagladÄ±
 	
 	if(sayi1==sayi2){
 		printf("%d = %d (Girilen sayilar esittir) \n",sayi1,sayi2);
