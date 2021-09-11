@@ -1,5 +1,5 @@
 //KLAVYEDEN GIRILEN IKI SAYININ DURUMUNU EKRANA BASTIRAN KOD
-
+//Kodları buradan kopyalayip kendi editorunuze yapistirip calistirabilirsiniz
 
 #include<stdio.h>
 
